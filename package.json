@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/hariraghupathy/todo-spec-demyst/issues"
   },
-  "homepage": "https://github.com/hariraghupathy/todo-spec-demyst#readme"
+  "homepage": "https://github.com/hariraghupathy/todo-spec-demyst#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
