@@ -1,0 +1,19 @@
+{
+  "name": "todo-spec-demyst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariraghupathy/todo-spec-demyst.git"
+  },
+  "author": "hariraghupathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariraghupathy/todo-spec-demyst/issues"
+  },
+  "homepage": "https://github.com/hariraghupathy/todo-spec-demyst#readme"
+}
